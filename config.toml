@@ -7,3 +7,4 @@ theme = 'terminal'
   # fullWidthTheme = true
   # center theme with default width
   centerTheme = true
+  themeColor = 'blue'
