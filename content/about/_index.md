@@ -3,5 +3,4 @@ title: "About"
 type: page
 ---
 
-
-Welcome to LadueCS!
+# Welcome to LadueCS!
