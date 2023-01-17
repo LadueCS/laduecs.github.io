@@ -1,0 +1,2 @@
+run = "hugo && miniserve public --index index.html"
+entrypoint = "content/posts/hello.md"
