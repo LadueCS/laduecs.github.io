@@ -2,6 +2,33 @@ baseURL = 'https://laduecs.github.io/'
 languageCode = 'en-us'
 title = 'Ladue CS Club'
 theme = 'terminal'
+
+[menu]
+  [[menu.main]]
+    identifier = 'about'
+    name = 'About'
+    url = '/about/'
+    pre = '<span data-feather="aperture"></span>'
+    weight = 1
+  [[menu.main]]
+    identifier = 'guides'
+    name = 'Guides'
+    url = '/guides/'
+    pre = '<span data-feather="book"></span>'
+    weight = 2
+  [[menu.main]]
+    identifier = 'projects'
+    name = 'Projects'
+    url = '/projects/'
+    pre = '<span data-feather="package"></span>'
+    weight = 2
+  [[menu.main]]
+    identifier = 'git'
+    name = 'Git'
+    url = 'https://github.com/LadueCS/laduecs.github.io/'
+    pre = '<span data-feather="git-pull-request"></span>'
+    weight = 5
+
 [params]
   # set theme to full screen width
   # fullWidthTheme = true
