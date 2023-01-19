@@ -3,4 +3,4 @@ title: "Andy"
 type: page
 ---
 
-I'm Andy.  click array for [website](https://spicecat.exozy.me/)
+I'm Andy.  click arrow for [website](https://spicecat.exozy.me/)
